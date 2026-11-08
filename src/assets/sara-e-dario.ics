@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sara e Dario//Matrimonio//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sara-dario-20270501@wedding-landing
+DTSTAMP:20261108T120000Z
+DTSTART:20270501T090000Z
+SUMMARY:Matrimonio di Sara e Dario
+LOCATION:Sermig - Arsenale della Pace\, Piazza Borgo Dora 61\, Torino
+DESCRIPTION:Cerimonia ore 11:00. Aperitivo ore 12:30. Pranzo ore 13:00. 
+ A seguire taglio della torta.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
